@@ -1,0 +1,2 @@
+this is the tutorial of git
+it is going good
